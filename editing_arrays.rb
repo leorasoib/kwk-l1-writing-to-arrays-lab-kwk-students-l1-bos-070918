@@ -17,3 +17,4 @@ rainbow_colors.push("green","blue")
 end
 
 puts add_colors(rainbow_colors)
+rainbow_colors
