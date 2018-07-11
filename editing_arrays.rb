@@ -16,5 +16,5 @@ def add_colors(rainbow_colors)
  rainbow_colors.push ["green","blue"]
 end
 
-rainbow_colors += add_colors(rainbow_colors)
+rainbow_colors = add_colors(rainbow_colors)
 rainbow_colors
